@@ -69,6 +69,8 @@ h1{
     letter-spacing: 2px;
 }
 p{
+    padding-left: 18px;
+    padding-right: 18px;
     color: #999;
     margin: 35px 10;
     font-size: 14px;
